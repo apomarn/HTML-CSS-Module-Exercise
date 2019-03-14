@@ -1,0 +1,223 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+#toptop {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 30px;
+}
+
+#nav-top-right {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-left {
+  display: inline-block;
+}
+
+.background-header {
+  float: right;
+  display: inline-block;
+}
+
+.logo {
+  width: 100px;
+  height: 40px;
+  margin: 8px 5px 0 0;
+  vertical-align: middle;
+}
+
+#input {
+  display: inline-block;
+  width: 930px;
+  height: 30px;
+  background-color: transparent;
+  border-color: gray;
+}
+
+.search {
+  background-color: transparent;
+  height: 35px;
+}
+
+.accounts {
+  float: right;
+  height: 35px;
+  color: white;
+}
+
+.accounts li {
+  display: inline-block;
+}
+
+.accounts ul a {
+  text-decoration: none;
+  color: white;
+}
+
+.bear {
+  width: 35px;
+  height: 35px;
+  vertical-align: middle;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+#header { 
+  background-image: url(images/city-scape.svg);
+}
+
+.header {
+  width: 450px;
+  height: 300px;
+  display: inline-block;
+  margin: 60px 0 0 200px;
+  color: white;
+}
+
+h1 {
+  font-size: 40px;
+  margin: 0 0 10px 0;
+}
+
+h3 {
+  font-size: 30px;
+  width: 300px;
+}
+
+.sign-up {
+  background-color: rgba(201, 131, 3, 0.966);
+  color: white;
+  padding: 7px 14px;
+  border-radius: 1em;
+  border-color: transparent;
+  margin: 10px 0 20px 0;
+}
+
+#background {
+  background-color: rgb(39, 53, 71);
+  height: 300px;
+  width: 100%;
+  margin: 0;
+}
+
+#background > div,
+#background > img {
+  float: left;
+}
+
+#background > img {
+  margin-left: 250px;
+}
+
+#background > div {
+  color: white;
+  margin-left: 70px;
+}
+
+#background > div > ul > li {
+  font-weight: 100;
+  margin: 0 0 10px 0;
+}
+
+.climb-bear {
+  height: 250px;
+  width: auto;
+  float: left;
+  margin-top: 25px;
+}
+
+.section1header {
+  vertical-align: middle;
+}
+
+.sign-up {
+  background-color: rgb(203, 56, 55);
+  margin: 5px 0 5px 0;
+}
+
+#background > div > a {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+
+#section2 {
+  background-image: url(images/forklift.svg);
+  height: 300px;
+  width: 100%;
+  color: white;
+  position: relative;
+}
+
+
+#section2 > div {
+  width: 350px;
+  position: absolute;
+  left: 250px;
+  top: 35px;
+}
+
+
+#section2 button {
+  border-radius: 1em;
+  background-color: rgb(49, 68, 88);
+  color: white;
+  border-color: transparent;
+  padding: 8px 25px;
+}
+
+#section3 {
+  margin: 0 auto;
+  height: 500px;
+}
+
+.section3top {
+  width: 100%;
+  height: 150px;
+  text-align: center;
+}
+
+.section3top > h3 {
+  width: 100%;
+  color: rgb(83, 88, 98);
+}
+
+
+.section3top > div > p {
+  text-align: center;
+
+}
+
+.divisions3 {
+  margin: 0 150px;
+}
+
+.divisions3 > div {
+  width: 33%;
+  float: right;
+  text-align: center;
+
+}
+
+.divisions3 > div > p {
+  width: 200px;
+  padding: 0 41px; 
+}
+
